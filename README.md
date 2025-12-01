@@ -5,7 +5,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
 
 ### 👋 Hi, I'm **Mohamed Hamed**
-### 🚀 Full-Stack & Mobile Developer | Flutter, Web & Python Enthusiast  
+### 🚀  Mobile Developer | Flutter, Web & Python Enthusiast  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hamed-a8273a25a/)
 
